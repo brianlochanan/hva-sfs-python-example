@@ -15,7 +15,7 @@ import datetime
 
 class NSApi:
     API_PATH = "https://gateway.apiportal.ns.nl/public-reisinformatie/api/v2/"
-    API_TOKEN = "ecb91cb499714bffa3a6697597d89e32"
+    API_TOKEN = "684d00eccfe546ba83a93da1e209421b"
 
     def __init__(self):
         pass
